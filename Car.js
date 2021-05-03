@@ -10,7 +10,7 @@ this.spt.addAnimation("car",carAnimation1);
         {
             speed=-speed;
             this.spt.addAnimation("car",carAnimation2);
-
+                                
         }
         this.spt.velocityX = speed;
     }
